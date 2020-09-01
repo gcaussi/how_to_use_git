@@ -52,4 +52,6 @@ git merge                            // une as linhas do tempo
 git push                             // envia alterações locais para o repositório remoto
 
 git config credential.helper store   // salva o login e senha, não sendo necessário a credencial toda vez
+
+git clone                            // baixa o repositório remoto para a máquina
 ```
